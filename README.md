@@ -16,11 +16,11 @@
 
 ## Step: 5. Run the run command : "ngrok http 4001"
 
-### Copy your ngrok link from the terminal and replace it with "PROJECT_PATH" in FeedsExpoBackend/.env
+### Copy your ngrok link from the terminal and replace it with "PROJECT_PATH" in Backend/.env
 
 ### Also replace this link in react native project API_URL in src/common/Constant.js
 
-## Step: 6. Run the command in your terminal "cd FeedsExpoBackend"
+## Step: 6. Run the command in your terminal "cd Backend"
 
 ## Step: 7. Go to your project directory and run "npm i"
 
@@ -30,9 +30,9 @@
 
 # Make sure that your backend code is running
 
-## Step: 1. Change the API_URL in FeedsExpoFrontend/src/common/constan.js
+## Step: 1. Change the API_URL in Frontend/src/common/constan.js
 
-## Step: 2. Run the command in your terminal "cd FeedsExpoFrontend"
+## Step: 2. Run the command in your terminal "cd Frontend"
 
 ## Step: 3. yarn or npm i
 
